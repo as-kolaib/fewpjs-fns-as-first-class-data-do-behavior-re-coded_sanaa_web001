@@ -28,6 +28,6 @@ function greet(timeString){
 /* Write your implementation of greet() */
 /* Write your implementation of displayMessage() */
 function displayMessage(massg){
-  document.getElementById('').
+  document.getElementById("greeting").innerText=massg; 
   
 }
